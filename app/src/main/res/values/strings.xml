@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VaaniX</string>
+    <string name="app_tagline">Your Language. Your Voice. Your Access.</string>
+
+    <!-- Navigation -->
+    <string name="nav_assistant">Assistant</string>
+    <string name="nav_screen_help">Screen &amp; Phone</string>
+    <string name="nav_settings">Languages &amp; Settings</string>
+
+    <!-- Voice & Controls -->
+    <string name="cd_mic_start">Tap to speak to VaaniX</string>
+    <string name="cd_mic_stop">Stop listening</string>
+    <string name="cd_stop_all">Stop listening and speaking</string>
+    <string name="cd_language_selector">Choose your speaking language</string>
+    <string name="cd_speak_again">Read this reply aloud</string>
+    <string name="cd_type_toggle">Type or hide message box</string>
+    <string name="cd_send_message">Send message to VaaniX</string>
+    <string name="cd_welcome_art">VaaniX multilingual voice emblem</string>
+
+    <string name="action_stop">Stop</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm_yes">Yes, Continue</string>
+    <string name="action_confirm_no">No, Cancel</string>
+    <string name="action_allow_mic">Allow Microphone</string>
+    <string name="action_clear_history">Clear Conversation History</string>
+    <string name="action_explain_text">Explain &amp; Read Aloud</string>
+    <string name="action_try_sample">Try Sample Message</string>
+
+    <!-- Permission & Privacy -->
+    <string name="mic_permission_title">Microphone Needed to Hear You</string>
+    <string name="mic_permission_rationale">VaaniX uses the microphone only when you press the Speak button. It never records in the background.</string>
+    <string name="zero_cost_badge">Offline Guided Mode (Zero-Cost Mock Provider)</string>
+</resources>

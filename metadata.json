@@ -1,0 +1,6 @@
+{
+  "name": "VaaniX",
+  "description": "Pan-India multilingual voice-first smartphone assistant helping elderly users operate their phones independently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
